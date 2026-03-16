@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on **量化分析**
 
-- 🌱 I'm currently learning **python**
+- 🌱 My hobby **3D打印**
 
 - 📫 How to reach me **zl_13362017991@163.com**
 
