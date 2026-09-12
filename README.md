@@ -8,4 +8,4 @@
 <p>- 🛠️ Building AI-powered Products | From Ideas to Prototypes </p>
 <p>- 📊 Interested in AI Product Management, Data Analysis and Intelligent Manufacturing </p>
 <p>- 🚀 Currently exploring AI Agents, Multimodal AI and Product Design </p>
-<p>- Check out my <a href="" target="_blank">projects portfolio</a> </p>
+<p>- Check out my <a href="https://faaaqwq.github.io/projects/" target="_blank">projects portfolio</a> </p>
