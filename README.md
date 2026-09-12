@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&width=500&height=35&lines=AI+Agent+Enthusiast;Building+AI-powered+Products;Exploring+RAG+%26+Multi-Agent">
 <h3>
   Hey 👋, I'm
-  <a href="[https://github.com/FaaaQwQ](https://faaaqwq.github.io/Home-Page/)">Zhong LinWenHan</a>!
+  <a href="https://faaaqwq.github.io/Home-Page/">Zhong LinWenHan</a>!
 </h3>
 <p>- 🎓 Industrial Engineering Master's Student | South China University of Technology </p>
 <p>- 🤖 AI Agent & AIGC Enthusiast | Exploring LLM, RAG and Multi-Agent Systems </p>
