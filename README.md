@@ -8,3 +8,4 @@
 <p>- 🖨️ Worked on a 3D Printing Defect Diagnosis Agent </p>
 <p>- 📊 Interested in AI Product Management, Data Analysis and Intelligent Manufacturing </p>
 <p>- 🚀 Currently exploring AI Agents, Multimodal AI and Product Design </p>
+<p>- Check out my <a href="https://simonaking.com/projects" target="_blank">projects portfolio</a> </p>
