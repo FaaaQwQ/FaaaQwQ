@@ -1,13 +1,10 @@
-# Hi 👋, I'm Zl
+<img align="right" src="https://github-stats-livid-one.vercel.app/api?username=你的GitHub用户名&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af&rank_icon=github&hide=contribs">
 
-- 🔭 I'm currently working on **量化分析**
+<h3> Hey 👋, I'm <a href="你的个人主页链接" target="_blank">你的名字</a>! </h3>
 
-- 🌱 My hobby **3D打印**
-
-- 📫 How to reach me **zl_13362017991@163.com**
-
-
-<p align="left">
-<a href="https://github.com/FaaaQwQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="FaaaQwQ" height="30" width="40" /></a>
-</p>
-
+<p>- 🎓 Industrial Engineering Master's Student | South China University of Technology </p>
+<p>- 🤖 AI Agent & AIGC Enthusiast | Exploring LLM, RAG and Multi-Agent Systems </p>
+<p>- 🛠️ Building AI-powered Products | From Ideas to Prototypes </p>
+<p>- 🖨️ Worked on a 3D Printing Defect Diagnosis Agent </p>
+<p>- 📊 Interested in AI Product Management, Data Analysis and Intelligent Manufacturing </p>
+<p>- 🚀 Currently exploring AI Agents, Multimodal AI and Product Design </p>
