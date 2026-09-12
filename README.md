@@ -1,4 +1,4 @@
-<img align="right" src="https://github-stats-livid-one.vercel.app/api?username=你的GitHub用户名&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af&rank_icon=github&hide=contribs">
+
 
 <h3> Hey 👋, I'm <a href="你的个人主页链接" target="_blank">Zhong LinWenHan</a>! </h3>
 
